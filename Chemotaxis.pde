@@ -27,7 +27,7 @@ celebrity celeb;
    } 
    celeb.show();
    textAlign(CENTER,CENTER);
-   text("Touch the center dot for a suprise!",500/2,10);
+   text("Touch the center dot for a suprise!!",500/2,10);
    textSize(25);
 
    
